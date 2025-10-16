@@ -14,8 +14,9 @@
 #conda install rerun-sdk -c conda-forge
 #conda install -c conda-forge rerun-sdk
 #conda install ffmpeg=7.1.1 -c conda-forge
+#conda install conda-forge::av
 
-# brew install bazel
+#brew install bazel
 #brew install ffmpeg pkg-config
 #conda install conda-forge::labmaze
 #pip install -e .
