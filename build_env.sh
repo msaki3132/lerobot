@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# https://pyav.org/docs/develop/overview/installation.html#bring-your-own-ffmpeg 
+# https://www.anaconda.com/docs/getting-started/miniconda/install#macos-terminal-installer
+# https://anaconda.org/conda-forge/av
+# https://rerun.io/docs/getting-started/installing-viewer
+# https://anaconda.org/conda-forge/labmaze
 
 #curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 #sh ./Miniconda3-latest-MacOSX-arm64.sh
